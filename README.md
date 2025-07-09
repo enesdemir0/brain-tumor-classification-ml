@@ -33,7 +33,6 @@ brain-tumor-classification-ml/
 
 ##  Requirements
 
-```bash
 pip install scikit-learn matplotlib pillow numpy scikit-image seaborn
 
 
